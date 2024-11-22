@@ -92,7 +92,8 @@ footer {
   width: 100%;
   bottom: 0;
 }
-.logo {
-  width: 150px;
-  height: auto;
+
+ .logo {
+  width: 150px !important;
+  height: auto !important;
 }
